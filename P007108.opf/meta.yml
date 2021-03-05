@@ -1,15 +1,16 @@
-id: opecha:P007108
+id: P007108
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25144
   title: ལམ་རིམ་བདུད་རྩི་སྙིང་པོ།
-  volume:
+  author: ''
+  volumes:
     4d84e57fc2d4485f84aedfe53dac199e:
       image_group_id: I1KG25146
       title: Volume 1 of lam rim bdud rtsi snying po/
       volume_number: 1
       total_pages: 150
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལམ་རིམ་བདུད་རྩི་སྙིང་པོ།
   author: ''
